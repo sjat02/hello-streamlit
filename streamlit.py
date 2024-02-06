@@ -1,2 +1,3 @@
 import streamlit as st
-st.write('Piece of a shit !')
+
+st.markdown('##### Piece of a shit !')
